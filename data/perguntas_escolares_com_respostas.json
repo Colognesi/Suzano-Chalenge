@@ -1,0 +1,212 @@
+{
+    "Português": [
+        [
+            "O que é um substantivo?",
+            "Substantivo é a classe de palavras que dá nome aos seres, objetos, lugares, sentimentos, etc."
+        ],
+        [
+            "Explique a diferença entre verbo e advérbio.",
+            "Verbo é a classe de palavras que indica ação, estado ou fenômeno da natureza. Advérbio é a classe de palavras que modifica o verbo, o adjetivo ou outro advérbio."
+        ],
+        [
+            "O que é uma oração subordinada?",
+            "Oração subordinada é aquela que depende sintaticamente de outra oração para ter sentido completo."
+        ],
+        [
+            "Dê um exemplo de uma metáfora.",
+            "Exemplo de metáfora: 'Ele é um leão no campo de batalha.'"
+        ],
+        [
+            "O que é um pronome possessivo?",
+            "Pronome possessivo é aquele que indica posse em relação às pessoas do discurso."
+        ],
+        [
+            "Explique a diferença entre denotação e conotação.",
+            "Denotação é o sentido literal da palavra. Conotação é o sentido figurado ou subjetivo da palavra."
+        ],
+        [
+            "O que é uma crônica?",
+            "Crônica é um gênero textual que narra fatos do cotidiano de forma breve e subjetiva."
+        ],
+        [
+            "Dê um exemplo de uma figura de linguagem.",
+            "Exemplo de figura de linguagem: 'Ela chorou rios de lágrimas.' (hipérbole)"
+        ],
+        [
+            "O que é um sujeito oculto?",
+            "Sujeito oculto é aquele que não está explícito na oração, mas pode ser identificado pelo contexto."
+        ],
+        [
+            "Explique a diferença entre parágrafo e período.",
+            "Parágrafo é uma unidade de texto composta por um ou mais períodos. Período é uma frase completa com sentido, podendo ser simples ou composta."
+        ]
+    ],
+    "Matemática": [
+        [
+            "O que é um número primo?",
+            "Número primo é aquele que só pode ser dividido por 1 e por ele mesmo."
+        ],
+        [
+            "Explique a diferença entre perímetro e área.",
+            "Perímetro é a soma das medidas dos lados de uma figura geométrica. Área é a medida da superfície da figura."
+        ],
+        [
+            "O que é uma equação do segundo grau?",
+            "Equação do segundo grau é aquela que pode ser escrita na forma ax² + bx + c = 0, onde a, b e c são constantes e a ≠ 0."
+        ],
+        [
+            "Dê um exemplo de uma progressão aritmética.",
+            "Exemplo de progressão aritmética: 2, 5, 8, 11, ... (razão = 3)"
+        ],
+        [
+            "O que é uma função linear?",
+            "Função linear é aquela que pode ser representada pela equação f(x) = ax + b, onde a e b são constantes."
+        ],
+        [
+            "Explique a diferença entre média aritmética e mediana.",
+            "Média aritmética é a soma dos valores dividida pelo número de valores. Mediana é o valor central em um conjunto ordenado de dados."
+        ],
+        [
+            "O que é um triângulo isósceles?",
+            "Triângulo isósceles é aquele que possui dois lados iguais e um diferente."
+        ],
+        [
+            "Dê um exemplo de uma matriz 3x3.",
+            "Exemplo de matriz 3x3: [[1, 2, 3], [4, 5, 6], [7, 8, 9]]"
+        ],
+        [
+            "O que é um logaritmo?",
+            "Logaritmo é o expoente ao qual se deve elevar uma base para obter determinado número. Exemplo: log₂8 = 3 (pois 2³ = 8)"
+        ],
+        [
+            "Explique a diferença entre probabilidade e estatística.",
+            "Probabilidade estuda a chance de ocorrência de eventos. Estatística coleta, organiza, analisa e interpreta dados."
+        ]
+    ],
+    "História": [
+        [
+            "Quem foi o primeiro presidente do Brasil?",
+            "O primeiro presidente do Brasil foi Marechal Deodoro da Fonseca."
+        ],
+        [
+            "Explique a importância da Revolução Francesa.",
+            "A Revolução Francesa foi importante por abolir a monarquia absolutista na França e influenciar movimentos democráticos em todo o mundo."
+        ],
+        [
+            "O que foi a Guerra Fria?",
+            "A Guerra Fria foi um período de tensão política e militar entre os Estados Unidos e a União Soviética após a Segunda Guerra Mundial."
+        ],
+        [
+            "Dê um exemplo de uma civilização antiga.",
+            "Exemplo de civilização antiga: Civilização Egípcia."
+        ],
+        [
+            "Quem descobriu o Brasil?",
+            "O Brasil foi descoberto por Pedro Álvares Cabral em 1500."
+        ],
+        [
+            "Explique a diferença entre monarquia e república.",
+            "Monarquia é um sistema de governo onde o chefe de estado é um monarca. República é um sistema onde o chefe de estado é eleito pelo povo ou por representantes."
+        ],
+        [
+            "O que foi a Revolução Industrial?",
+            "A Revolução Industrial foi um período de grandes mudanças tecnológicas e industriais iniciado na Inglaterra no século XVIII."
+        ],
+        [
+            "Dê um exemplo de um líder revolucionário.",
+            "Exemplo de líder revolucionário: Che Guevara."
+        ],
+        [
+            "O que foi o Renascimento?",
+            "Renascimento foi um movimento cultural europeu entre os séculos XIV e XVII caracterizado pelo ressurgimento das artes e ciências."
+        ],
+        [
+            "Explique a importância da Independência dos Estados Unidos.",
+            "A Independência dos Estados Unidos marcou o nascimento da primeira nação moderna baseada em princípios democráticos e influenciou outras colônias a buscar independência."
+        ]
+    ],
+    "Geografia": [
+        [
+            "O que é um continente?",
+            "Continente é uma grande massa de terra contínua cercada por oceanos. Exemplo: África."
+        ],
+        [
+            "Explique a diferença entre clima e tempo.",
+            "Clima refere-se às condições atmosféricas médias ao longo do tempo. Tempo refere-se às condições atmosféricas momentâneas."
+        ],
+        [
+            "O que é uma bacia hidrográfica?",
+            "Bacia hidrográfica é uma área drenada por um rio principal e seus afluentes."
+        ],
+        [
+            "Dê um exemplo de um bioma brasileiro.",
+            "Exemplo de bioma brasileiro: Amazônia."
+        ],
+        [
+            "O que é latitude e longitude?",
+            "Latitude são linhas horizontais imaginárias usadas para medir distâncias ao norte ou sul do Equador. Longitude são linhas verticais imaginárias usadas para medir distâncias ao leste ou oeste do Meridiano de Greenwich."
+        ],
+        [
+            "Explique a diferença entre erosão e intemperismo.",
+            "Erosão é o desgaste do solo e rochas pela ação do vento, água ou gelo. Intemperismo é o processo de decomposição das rochas pela ação química, física ou biológica."
+        ],
+        [
+            "O que é um ecossistema?",
+            "Ecossistema é uma comunidade de organismos vivos interagindo com seu ambiente físico."
+        ],
+        [
+            "Dê um exemplo de uma formação rochosa.",
+            "Exemplo de formação rochosa: Grand Canyon nos Estados Unidos."
+        ],
+        [
+            "O que é urbanização?",
+            "Urbanização é o processo pelo qual áreas rurais se transformam em áreas urbanas devido ao crescimento populacional e desenvolvimento econômico."
+        ],
+        [
+            "Explique a importância da Amazônia.",
+            "A Amazônia é importante por sua biodiversidade, papel na regulação do clima global e como fonte de recursos naturais."
+        ]
+    ],
+    "Artes": [
+        [
+            "O que é uma obra de arte?",
+            "Obra de arte é uma criação artística que expressa ideias, emoções ou uma visão de mundo."
+        ],
+        [
+            "Explique a diferença entre pintura e escultura.",
+            "Pintura é uma forma de arte que utiliza pigmentos aplicados sobre uma superfície. Escultura é uma forma de arte que cria formas tridimensionais a partir de materiais como pedra, metal ou madeira."
+        ],
+        [
+            "O que é uma instalação artística?",
+            "Instalação artística é uma obra de arte que ocupa um espaço específico e envolve o espectador de maneira imersiva."
+        ],
+        [
+            "Dê um exemplo de um artista renascentista.",
+            "Exemplo de artista renascentista: Leonardo da Vinci."
+        ],
+        [
+            "O que é arte contemporânea?",
+            "Arte contemporânea é a arte produzida a partir da segunda metade do século XX até os dias atuais, caracterizada pela diversidade de estilos e técnicas."
+        ],
+        [
+            "Explique a importância da perspectiva na arte.",
+            "A perspectiva é importante na arte porque cria a ilusão de profundidade e tridimensionalidade em uma superfície bidimensional."
+        ],
+        [
+            "O que é uma performance artística?",
+            "Performance artística é uma forma de arte onde o artista utiliza seu corpo, ações e presença para criar uma obra efêmera."
+        ],
+        [
+            "Dê um exemplo de uma técnica de pintura.",
+            "Exemplo de técnica de pintura: aquarela."
+        ],
+        [
+            "O que é arte abstrata?",
+            "Arte abstrata é um estilo de arte que não representa formas ou objetos reconhecíveis, focando em cores, formas e texturas."
+        ],
+        [
+            "Explique a diferença entre arte figurativa e arte abstrata.",
+            "Arte figurativa representa formas e objetos reconhecíveis do mundo real. Arte abstrata não busca representar formas reconhecíveis, focando em elementos visuais como cores e formas."
+        ]
+    ]
+}
