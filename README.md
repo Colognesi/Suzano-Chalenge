@@ -16,6 +16,19 @@ O "Suzano-Challenge" é um projeto de chatbot desenvolvido em Python, com o obje
 - **POO (Programação Orientada a Objetos)**: Estrutura de código utilizada para tornar o projeto mais modular e reutilizável.
 - **.env**: Para garantir que informações sensíveis, como as chaves de API, sejam mantidas em segurança.
 
+## Bibliotecas utilizadas
+
+1. json
+2. os
+3. requests
+4. unidecode
+5. string
+6. random
+7. difflib
+8. dotenv
+
+**É recomendado possuir o pacote Anaconda instalado!**
+
 ## Estrutura do projeto
 
 ```json
