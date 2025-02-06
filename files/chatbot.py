@@ -15,6 +15,8 @@ class Chatbot:
         return: None
         
         Inicializa o chatbot carregando as perguntas e respostas do JSON e definindo as configurações da API.
+        Inicializa tambem a utilização da variavel de ambiente para chamada GEMINI.
+        Não esqueã de alterar o caminho / adicionar sua API key.
         """
         self.json_file = json_file
         self.responses = self.load_responses()
