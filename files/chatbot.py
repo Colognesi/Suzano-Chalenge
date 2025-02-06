@@ -129,7 +129,7 @@ class Chatbot:
             print(f"Q: {q}\nA: {r}\n")
 
 if __name__ == "__main__":
-    chatbot = Chatbot("./data/perguntas_escolares_com_respostas.json")
+    chatbot = Chatbot("./Suzano-Chalenge/data/perguntas_escolares_com_respostas.json")
     
     exit_commands = ["sair", "exit", "quit", "adeus", "tchau", "fechar", "obrigado"]
     
