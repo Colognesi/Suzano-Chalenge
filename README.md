@@ -19,7 +19,7 @@ O "Suzano-Challenge" é um projeto de chatbot desenvolvido em Python, com o obje
 ## Estrutura do projeto
 
 ```json
-"Suzano-Challenge" : {
+"Suzano-Challenge": {
     "data": {
         "perguntas_escolares_com_respostas.json"
     },
