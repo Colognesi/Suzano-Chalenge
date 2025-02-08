@@ -41,5 +41,6 @@ O "Suzano-Challenge" é um projeto de chatbot desenvolvido em Python, com o obje
             "chat_history_4373.json"
         },
         "chatbot.py"
+        "bigQ.py"
     }
 }
